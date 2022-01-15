@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "music-player-app-ui",
+    "slug": "music-player-app-ui",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "music-player-app-ui"
+}
